@@ -9,7 +9,7 @@
    or init_by_array64(init_key, key_length).
 
    Copyright (C) 2004, Makoto Matsumoto and Takuji Nishimura,
-   All rights reserved.                             
+   All rights reserved.                          
 
    Redistribution and use in source and binary forms, with or without
    modification, are permitted provided that the following conditions
